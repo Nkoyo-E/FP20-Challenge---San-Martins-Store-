@@ -10,4 +10,4 @@ Page 2 A Json map of Spain was used to show the geograhical view of San Martin S
 
 ![alt text](https://res.cloudinary.com/domkl95kr/image/upload/v1684607764/san_2_qnrkl1.jpg)
 
-To interact with the report San Martins Stores [Here](https://app.powerbi.com/view?r=eyJrIjoiNDllYjM1MzItMGFlMy00ZWM5LTg3MzUtZDU2NDg5NDA4Y2UxIiwidCI6IjMwMzlmZTYwLTIzNjAtNDRmOC04NjY1LTdjNGY1ZWVlMGM2YiJ9)
+To interact with San Martins Stores Sales Report Click [Here](https://app.powerbi.com/view?r=eyJrIjoiNDllYjM1MzItMGFlMy00ZWM5LTg3MzUtZDU2NDg5NDA4Y2UxIiwidCI6IjMwMzlmZTYwLTIzNjAtNDRmOC04NjY1LTdjNGY1ZWVlMGM2YiJ9)
